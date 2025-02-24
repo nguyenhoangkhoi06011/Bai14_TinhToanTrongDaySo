@@ -17,16 +17,6 @@ namespace Bai14_TinhToanTrongDaySo
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnTinh_Click(object sender, EventArgs e)
         {
             int nho = Convert.ToInt32(txtSo1.Text);
